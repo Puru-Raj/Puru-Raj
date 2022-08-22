@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Puru.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Electrical Engineering at IIT Jodhpur.
 - 🌱 &nbsp; Learning more about Software Development, UI Design and Machine Learning
