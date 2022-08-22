@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Electrical Engineering at IIT Jodhpur.
-- 🌱 &nbsp; Learning more about Software Development, UI Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Software Development, UI Design and Machine Learning
+.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
